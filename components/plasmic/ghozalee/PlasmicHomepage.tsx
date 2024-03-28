@@ -189,7 +189,7 @@ function PlasmicHomepage__RenderFunc(props: {
               )}
             >
               {
-                "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+                "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus "
               }
             </div>
           </section>
@@ -264,8 +264,25 @@ function PlasmicHomepage__RenderFunc(props: {
                 sty.h1___15EOn
               )}
             >
-              {"TOKENOMICS"}
+              {"JOIN NOW"}
             </h1>
+            <PlasmicImg__
+              alt={""}
+              className={classNames(sty.img__owvP3)}
+              displayHeight={"auto"}
+              displayMaxHeight={"none"}
+              displayMaxWidth={"100%"}
+              displayMinHeight={"0"}
+              displayMinWidth={"0"}
+              displayWidth={"100%"}
+              loading={"lazy"}
+              src={{
+                src: "/plasmic/ghozalee/images/ghozaleeBlackpng.png",
+                fullWidth: 1500,
+                fullHeight: 500,
+                aspectRatio: undefined
+              }}
+            />
           </section>
         </div>
       </div>

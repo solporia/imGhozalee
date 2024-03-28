@@ -136,6 +136,11 @@
           "id": "GqjqR9VX6yPg",
           "name": "ghozalee.png",
           "filePath": "../public/plasmic/ghozalee/images/ghozaleepng.png"
+        },
+        {
+          "id": "nWzf7YAad_0r",
+          "name": "ghozalee-black.png",
+          "filePath": "../public/plasmic/ghozalee/images/ghozaleeBlackpng.png"
         }
       ],
       "indirect": false,
